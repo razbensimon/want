@@ -10,7 +10,7 @@ To build:
 ```sh
 $ yarn install
 ```
-yarn is the best option, but you can use npm also.
+[yarn](https://yarnpkg.com/lang/en/) is the best option, but you can use npm also.
 
 Running
 ==============
