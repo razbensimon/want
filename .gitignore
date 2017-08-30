@@ -1,0 +1,12 @@
+
+\.idea/
+
+node_modules/
+
+*.zip
+
+dist/
+
+src/app/**/*.js
+
+index.js
